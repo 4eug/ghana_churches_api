@@ -1,0 +1,619 @@
+﻿{
+    "churches": [
+      {
+        "name": "Deeper Christian Life Ministry "
+      },
+      {
+        "name": "House of Prayer Chapel"
+      },
+      {
+        "name": "The Synagogue Church of All Nations"
+      },
+      {
+        "name": "Redeemed Baptist Curch"
+      },
+      {
+        "name": "Christian Soilders of Faith Ministry"
+      },
+      {
+        "name": "Action Chapel International"
+      },
+      {
+        "name": "Chapel of Hope International"
+      },
+      {
+        "name": "International Central Gosple Church "
+      },
+      {
+        "name": "Presbyterian Church of Ghana"
+      },
+      {
+        "name": "Royal House Chapel International"
+      },
+      {
+        "name": "Shield Chapel International"
+      },
+      {
+        "name": "The Bible Society of Ghana"
+      },
+      {
+        "name": "Perez Chapel"
+      },
+      {
+        "name": "Victory Bible Church International"
+      },
+      {
+        "name": "Methodist Church of Ghana"
+      },
+      {
+        "name": "Royal Mission Generation Ministries (RMGM)"
+      },
+      {
+        "name": "Christ Embassy"
+      },
+      {
+        "name": " Etherean Mission International"
+      },
+      {
+        "name": "Ghana Pentecotal & Charismatic Council (GPCC)"
+      },
+      {
+        "name": "The Apostolic Church Ghana"
+      },
+      {
+        "name": "Christian Faith Church International "
+      },
+      {
+        "name": "The Church of Jesus Christ Of Latter Day Saints"
+      },
+      {
+        "name": "Seventh Day Adventist Church"
+      },
+      {
+        "name": "African Independent Church"
+      },
+      {
+        "name": "Roman Catholic Church"
+      },
+      {
+        "name": "Anglican Church "
+      },
+      {
+        "name": "African Methodist Episcopal Zion"
+      },
+      {
+        "name": "International Charismatic Church "
+      },
+      {
+        "name": "Newlife Charismatic Church"
+      },
+      {
+        "name": "Lighthouse Chapel International"
+      },
+      {
+        "name": "Springs of Life Chapel International"
+      },
+      {
+        "name": "Faithwood Charismatic Ministry"
+      },
+      {
+        "name": "Agape House New Testament Church"
+      },
+      {
+        "name": "Apostolic Church of Ghana"
+      },
+      {
+        "name": "Charismatic Grace Chapel"
+      },
+      {
+        "name": "Elim Pentecostal Gospel Church International"
+      },
+      {
+        "name": "Gospel Light International Church"
+      },
+      {
+        "name": "Christain Gospel International Church"
+      },
+      {
+        "name": "World Missionary Church International"
+      },
+      {
+        "name": "Apostolic Reformed Church of Ghana"
+      },
+      {
+        "name": "Sabbath Christian Church of Ghana "
+      },
+      {
+        "name": "Family Chapel International"
+      },
+      {
+        "name": "Harvest Chapel International"
+      },
+      {
+        "name": "Belivers on Fire"
+      },
+      {
+        "name": "Salem City Church"
+      },
+      {
+        "name": "The Light of Gospel Mission"
+      },
+      {
+        "name": "Word of Life Christian Centre"
+      },
+      {
+        "name": "Evangelical Congregation Church of Ghana"
+      },
+      {
+        "name": "Redemption Temple "
+      },
+      {
+        "name": "Church of Christ"
+      },
+      {
+        "name": "Full Gospel Church International"
+      },
+      {
+        "name": "Greater Triumph Christain Centre"
+      },
+      {
+        "name": "Christ Ambassadors Church International"
+      },
+      {
+        "name": "The Divine Apostolic Church of Ghana"
+      },
+      {
+        "name": "Prophetic Evangelic Ministy "
+      },
+      {
+        "name": "Great Vision Ministry International"
+      },
+      {
+        "name": "Assemblies of God Church"
+      },
+      {
+        "name": "Breakthrough Holiness Church"
+      },
+      {
+        "name": "Prophetic Grace House Ministry"
+      },
+      {
+        "name": "Calvary Charismatic Centre"
+      },
+      {
+        "name": "Unity Ambassadors of God Church"
+      },
+      {
+        "name": "Overcomers Fire Ministry"
+      },
+      {
+        "name": "Christian Mission International"
+      },
+      {
+        "name": "Resurrection Power and Living Bread Ministries International"
+      },
+      {
+        "name": "Divine Healers Church"
+      },
+      {
+        "name": "Spoken Word Church "
+      },
+      {
+        "name": "Global Evangelical Church"
+      },
+      {
+        "name": "Foursquare Gospel Church"
+      },
+      {
+        "name": "Church of Pentecost"
+      },
+      {
+        "name": "Aprovision International Church"
+      },
+      {
+        "name": "Legon International Church"
+      },
+      {
+        "name": "Saviour Church Of Ghana"
+      },
+      {
+        "name": "Church of Jesus Reformed-Gh"
+      },
+      {
+        "name": "Trinity Baptist Church"
+      },
+      {
+        "name": "Qodesh Family Church"
+      },
+      {
+        "name": "Love Community Chapel Youth Ministry"
+      },
+      {
+        "name": "Christian Gospel Church"
+      },
+      {
+        "name": "Christ is the Answer Church of Ghana"
+      },
+      {
+        "name": "Disciples of Christ International"
+      },
+      {
+        "name": "Christ Deliverance Church Mission International"
+      },
+      {
+        "name": "Faith Alive Chapel"
+      },
+      {
+        "name": "Faith Salvation Church of Ghana"
+      },
+      {
+        "name": "Watchers of Nations"
+      },
+      {
+        "name": "Anointed Palace Chapel"
+      },
+      {
+        "name": "Fruit Of Christ International Ministry"
+      },
+      {
+        "name": "Alabaster International Ministry"
+      },
+      {
+        "name": "Cedar Mountain Chapel"
+      },
+      {
+        "name": "Twotap Ministry"
+      },
+      {
+        "name": "Life Assembly Worship Center"
+      },
+      {
+        "name": "Olam Church"
+      },
+      {
+        "name": "The Gracelove Church Network Holy Ghost"
+      },
+      {
+        "name": "Home of Favour International Church"
+      },
+      {
+        "name": "KICC Dominion Centre"
+      },
+      {
+        "name": "Ghana Police Church"
+      },
+      {
+        "name": "Atomic Hills United Church"
+      },
+      {
+        "name": "Accra Ridge Church"
+      },
+      {
+        "name": "The Salvation Army"
+      },
+      {
+        "name": "Jehovah Witness Church"
+      },
+      {
+        "name": "E.P Church"
+      },
+      {
+        "name": "Teshie Nungua Estate United Church"
+      },
+      {
+        "name": "International God's Way Church"
+      },
+      {
+        "name": "Ebenezer Miracle Centre"
+      },
+      {
+        "name": "Prophetic Hill Chapel"
+      },
+      {
+        "name": "RockHill Church"
+      },
+      {
+        "name": "Christ Gospel Church"
+      },
+      {
+        "name": "Life Power Miracle Church"
+      },
+      {
+        "name": "Good News Bible Church"
+      },
+      {
+        "name": "Glorious Word power Ministries"
+      },
+      {
+        "name": "Blessed Divine Pentecostal Ministry"
+      },
+      {
+        "name": "Nnudu Pentacost Church"
+      },
+      {
+        "name": "Max Duodu Mem. Presbyterian Church of Ghana"
+      },
+      {
+        "name": "Gbadzeme R. C Church"
+      },
+      {
+        "name": "The Super Church Ghana"
+      },
+      {
+        "name": "Tesano Baptist Church"
+      },
+      {
+        "name": "Holy Baptist Church"
+      },
+      {
+        "name": "Ridge Church"
+      },
+      {
+        "name": "Elshammah Tesano Global Evangelical Church"
+      },
+      {
+        "name": "Namangu Baptist Church"
+      },
+      {
+        "name": "Worldwide Ministry of Heavenly Vision"
+      },
+      {
+        "name": "Mega Church"
+      },
+      {
+        "name": "Nissi Life Cathedral"
+      },
+      {
+        "name": "Free Methodist Church Ghana Mission"
+      },
+      {
+        "name": "Trinity Presbyterian Church"
+      },
+      {
+        "name": "Mighty Chapel International"
+      },
+      {
+        "name": "Aggrey Chapel"
+      },
+      {
+        "name": "Northern Ghana Union Mission of SDA Church"
+      },
+      {
+        "name": "Winners Chapel Ghana"
+      },
+      {
+        "name": "Life International Church"
+      },
+      {
+        "name": "Hope City Church"
+      },
+      {
+        "name": "First Church of Christ"
+      },
+      {
+        "name": "World Miracle Church"
+      },
+      {
+        "name": "Christ Apostolic Church International"
+      },
+      {
+        "name": "International Churches of Christ"
+      },
+      {
+        "name": "Covenant Family Community Church"
+      },
+      {
+        "name": "Evangel Church International"
+      },
+      {
+        "name": "Celestial Church of Christ"
+      },
+      {
+        "name": "True Jesus Church"
+      },
+      {
+        "name": "Pure Fire Miracles Ministries"
+      },
+      {
+        "name": "Praise Revival Sanctuary"
+      },
+      {
+        "name": "Asokwa Baptist Church"
+      },
+      {
+        "name": "Waves of Glory Church"
+      },
+      {
+        "name": "First Baptist Church"
+      },
+      {
+        "name": "Faith Embassy"
+      },
+      {
+        "name": "Deeper Christian Church"
+      },
+      {
+        "name": "Bohyen Pentecost Church"
+      },
+      {
+        "name": "City Baptist Church"
+      },
+      {
+        "name": "Praise Baptist Church"
+      },
+      {
+        "name": "City Church of God"
+      },
+      {
+        "name": "Historic Adventist Church"
+      },
+      {
+        "name": "Asuofua Church of Christ"
+      },
+      {
+        "name": "Aburaso Methodist Church"
+      },
+      {
+        "name": "PIWC"
+      },
+      {
+        "name": "House of Faith Ministries"
+      },
+      {
+        "name": "Faith Gospel Church"
+      },
+      {
+        "name": "House of Life and Hope Church"
+      },
+      {
+        "name": "Wordpower Outreach Ministry"
+      },
+      {
+        "name": "Pillar of Zion Church"
+      },
+      {
+        "name": "Go Back to The Bible Church"
+      },
+      {
+        "name": "Gracefields Chapel"
+      },
+      {
+        "name": "Pool of Grace Church"
+      },
+      {
+        "name": "RCCG Harvest Parish"
+      },
+      {
+        "name": "True Gosple Foundation Church International"
+      },
+      {
+        "name": "Jesus Generation Ministries"
+      },
+      {
+        "name": "Accffuchild Church"
+      },
+      {
+        "name": "Living Praise Church"
+      },
+      {
+        "name": "Dream House Church"
+      },
+      {
+        "name": "True Christian Bible Church"
+      },
+      {
+        "name": "Rehoboth Baptist Church"
+      },
+      {
+        "name": "Disciple Family Church International"
+      },
+      {
+        "name": "A.M.E zion Church Sekondi"
+      },
+      {
+        "name": "Life Gate Family Chapel"
+      },
+      {
+        "name": "HolyFire Church International"
+      },
+      {
+        "name": "Reapers Charismatic Church"
+      },
+      {
+        "name": "Eden Revival Church"
+      },
+      {
+        "name": "Voice of The Lord Evangelical Church"
+      },
+      {
+        "name": "Christ Revival Church"
+      },
+      {
+        "name": "Christian Divine Church"
+      },
+      {
+        "name": "The Word of Life Apostolic Ministry"
+      },
+      {
+        "name": "Harris Church of Ghana"
+      },
+      {
+        "name": "Universal Gospel Centre"
+      },
+      {
+        "name": "Rhema Calvary Centre"
+      },
+      {
+        "name": "Covenant Restoration Church International"
+      },
+      {
+        "name": "Redemption Hour Faith Ministries"
+      },
+      {
+        "name": "Grace Outreach Church"
+      },
+      {
+        "name": "Patmos Worship Centre"
+      },
+      {
+        "name": "Abundant Faith Ministry"
+      },
+      {
+        "name": "Bohye Prayer Center"
+      },
+      {
+        "name": "Revelation Chapel International"
+      },
+      {
+        "name": "Jesus And Happiness Church"
+      },
+      {
+        "name": "Rhemacity Chapel International"
+      },
+      {
+        "name": "Bethel Prayer Ministry"
+      },
+      {
+        "name": "Destiny Hour Encounter"
+      },
+      {
+        "name": "Body of Christ Baptist Chapel Ministry of Repentance And Holiness"
+      },
+      {
+        "name": "Heralds World Ministires "
+      },
+      {
+        "name": "Friends of Jesus Evangelistic Ministries Worldwide"
+      },
+      {
+        "name": "Sonlife City Church"
+      },
+      {
+        "name": "Fundamental Baptist Church International"
+      },
+      {
+        "name": "Sons of God Church"
+      },
+      {
+        "name": "Fountain Gate Chapel"
+      },
+      {
+        "name": "True Faith Church"
+      },
+      {
+        "name": "Salesians Of Don Bosco "
+      },
+      {
+        "name": "Jesus Redemption Church"
+      },
+      {
+        "name": "Cell Warriors And Evangelism Outreach"
+      },
+      {
+        "name": "Tabernacle Emunah Family"
+      },
+      {
+        "name": "The Redeemed Christian Church of Good(RCCG)"
+      }
+    ]
+  }
