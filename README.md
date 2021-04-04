@@ -1,4 +1,4 @@
-"# ghana_churches_api"
+Churches In Ghana
 
 # Add /posts to the endpoint
 
