@@ -1,5 +1,5 @@
-Churches In Ghana
+# Churches In Ghana
 
-# Add /posts to the endpoint
+#Add /posts to the endpoint
 
-# Like this: https://ghanachurchesapi.herokuapp.com/posts
+#Like this: https://ghanachurchesapi.herokuapp.com/posts
